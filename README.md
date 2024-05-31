@@ -8,7 +8,7 @@ Here is my awesome team: [CTFTime Team](https://ctftime.org/team/287976) ğŸš©ğŸ
 
 Achievements: 
 
-Passed the CCST (Cisco Certified Support Technician) Networking certification from Cisco
+Passed the CCST (Cisco Certified Support Technician) Networking certification
 
 
 
