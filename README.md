@@ -6,4 +6,9 @@ I'm interested in Capture The Flag competitions (CTFs) and love to solve weird c
 
 Here is my awesome team: [CTFTime Team](https://ctftime.org/team/287976) 🚩🏆
 
+Achievements: 
+
+Passed the CCST (Cisco Certified Support Technician) Networking certification from Cisco
+
+
 
